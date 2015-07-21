@@ -10,7 +10,7 @@ module.exports = {
     email: 'oplmoplm2@gmail.com'
   },
   deploy: {
-    branch: 'ph-page',
+    branch: 'ph-pages',
   },
   plugins: [
     rssPlugin(),

@@ -3759,7 +3759,7 @@ module.exports =
 	    email: 'oplmoplm2@gmail.com'
 	  },
 	  deploy: {
-	    branch: 'master'
+	    branch: 'ph-page'
 	  },
 	  plugins: [rssPlugin()],
 	  theme: {
