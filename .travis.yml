@@ -1,0 +1,6 @@
+#HxNkfVfmkHTzxvJK4Lzq
+script: bash ./deploy.sh
+env:
+  global:
+  - GH_REF: github.com/swirling/blog.git
+  - secure: "HxNkfVfmkHTzxvJK4Lzq"
