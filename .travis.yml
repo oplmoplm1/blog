@@ -3,4 +3,4 @@ script: bash ./deploy.sh
 env:
   global:
   - GH_REF: github.com/swirling/blog.git
-  - secure: "HxNkfVfmkHTzxvJK4Lzq"
+  - secure: "dFxA9JH95cYXVEgwxOxW7j5gt3b7PPyZ1gbWS8TK7OIvlo8kt4baMB7m0Gc3VGvNlkEAVAzjxGzl1m0artJkNpNEw/RtH/NEFJzEN4oQWr29Sj9E5qLX25hsyWndxZbQMU971KCmGD7ti6eAXu52IishosLI19Da87nIBfFq/I1m2Z0nhNQooFCMi0EZnecVxiwuA4K/Mk8gSCF+ZfeyBIPCnbzvaUrEgcF6uKcP8TjDpO8j2Zpm7sO9lTNbJX+GGztqM+C3U/X5VklwyTX0rfiYi6dD5Ubh74at8C0TKT+Xy4NYNF3Aslxxg0Qu3Ui8rRFV72XU30ALRCGAdFJMIU0tPDDsoMo4nIU8prwFmGAoUG4GMxATbeVJzTyBCFes1aAOc/RXRI+ResXZir/apeT/8C2XdZKoHAY94eDgXAU5nsMRWacU+0khvKyx2EV14f4RiBmnMQWUDGm46p/X07VypplVrdHjedg9zBhJHw/WeWUP+5z5M7JWo5QEK/WsdO3+rrgYh+5df713A7HmRGm8yTdXU3ie/yw7vK0GqKbs4+HC6WCJVpbouH5EqWW/qn+P2Mjw/ie8h+xk40r/j9cbp19m9W53YXmfkl4So08mO33RllE029+3+xEaPdNKJmLNOr8e47XhpbyWMrllVlln3IcgNLnomlJczidr7zc="
