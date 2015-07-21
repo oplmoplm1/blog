@@ -1,0 +1,10 @@
+<feed xmlns="http://www.w3.org/2005/Atom"><title >blog</title><link href="undefinedatom.xml" rel="self"> </link><link href="undefined"> </link><updated >2015-07-21T10:22:56+08:00</updated><id >undefined</id><author ><name >swirling</name><email >oplmoplm2@gmail.com</email></author><entry ><title >Start writing.</title><id >astartwriting2015-07-20t00:00:00+08:00</id><link href="undefinedblog/2015-07-20-01"></link><updated >2015-07-20T00:00:00+08:00</updated><content type="html">&lt;p&gt;This is a blog to express some personal opinions and practice writing skills.&lt;/p&gt;
+&lt;p&gt;Here are something I wanna to discuss:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Some tricks in programming &lt;/li&gt;
+&lt;li&gt;Some ideas about new feature &lt;/li&gt;
+&lt;li&gt;How to develop something to reach some weird goals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I write more in next posts. As the first page, saying &amp;quot;Hello world&amp;quot; is enough.&lt;/p&gt;
+&lt;p&gt;That&amp;#39;s all.&lt;/p&gt;
+</content></entry></feed>
