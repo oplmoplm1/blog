@@ -38155,7 +38155,7 @@ module.exports =
 		"title": "Start writing.",
 		"date": "2015-07-20T00:00:00.000Z",
 		"headerImage": "https://unsplash.imgix.net/photo-1422513391413-ddd4f2ce3340?q=75&fm=jpg&s=282e5978de17d6cd2280888d16f06f04",
-		"__content": "\nThis is a blog to express some personal opinions and practice writing skills.\n\nHere are something I wanna to discuss:\n\n- Some tricks in programming \n- Some ideas about new feature \n- How to develop something to reach some weird goals\n\n\nI write more in next posts. As the first page, saying \"Hello world\" is enough.\n\nThat's all."
+		"__content": "\n>sfadfa\nThis is a blog to express some personal opinions and practice writing skills.\n\nHere are something I wanna to discuss:\n\n- Some tricks in programming \n- Some ideas about new feature \n- How to develop something to reach some weird goals\n\n\nI write more in next posts. As the first page, saying \"Hello world\" is enough.\nThat's all.\n"
 	}
 
 /***/ },
