@@ -3754,7 +3754,7 @@ module.exports =
 	    email: 'oplmoplm2@gmail.com'
 	  },
 	  deploy: {
-	    branch: 'gh-pages'
+	    branch: 'master'
 	  },
 	  plugins: [rssPlugin()],
 	  theme: {
