@@ -2,8 +2,8 @@
 set -e # exit with nonzero exit code if anything fails
 
 # clear and re-create the out directory
-rm -rf build || exit 0;
-mkdir build;
+# rm -rf build || exit 0;
+# mkdir build;
 
 # run our compile script, discussed above
 #antwar --build
